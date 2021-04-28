@@ -1,0 +1,70 @@
+PODS:
+  - Alamofire (5.3.0)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - EAAlertView (0.1.6)
+  - GSMessages (1.7.4)
+  - IQKeyboardManagerSwift (6.5.6)
+  - JGProgressHUD (2.2)
+  - LGAlertView (2.4.0)
+  - LGSideMenuController (2.1.1)
+  - McPicker (3.0.0)
+  - MercariQRScanner (1.7)
+  - MTSlideToOpen (1.5.1)
+  - ScalingCarousel (3.2.0)
+  - SVPinView (1.0.11)
+  - SwiftKeychainWrapper (4.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Charts
+  - EAAlertView
+  - GSMessages
+  - IQKeyboardManagerSwift
+  - JGProgressHUD
+  - LGAlertView
+  - LGSideMenuController
+  - McPicker
+  - MercariQRScanner
+  - MTSlideToOpen
+  - ScalingCarousel
+  - SVPinView (~> 1.0)
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - EAAlertView
+    - GSMessages
+    - IQKeyboardManagerSwift
+    - JGProgressHUD
+    - LGAlertView
+    - LGSideMenuController
+    - McPicker
+    - MercariQRScanner
+    - MTSlideToOpen
+    - ScalingCarousel
+    - SVPinView
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  EAAlertView: fd2331d0199e13bdb128f097a9d5c70c61c6475d
+  GSMessages: 9a82cc40465b88cd5d5759bee1fe812c3c63cc3a
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  LGAlertView: 2f5e83dd5cc2537de57d98727650609e86197d1a
+  LGSideMenuController: ae40c80983ab8b8801c7cef0a6804d43aaa72d45
+  McPicker: ba38be56a8194faa5249eca4226c364eed628044
+  MercariQRScanner: 4b3ac1897463c01ab9486542b6c4bebe328e0f3a
+  MTSlideToOpen: dedc9abf1e377fef40544b84e5590d4981055030
+  ScalingCarousel: d40f0ce438af5cfb2225e2f723f7161597961128
+  SVPinView: 9b538d0ba68cdb092afe4f0f67ec84cbed079466
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+
+PODFILE CHECKSUM: ac70872d9dc88562ce85761fc4da7f3e8931057f
+
+COCOAPODS: 1.10.0
